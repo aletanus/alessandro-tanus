@@ -1,5 +1,12 @@
 # Alessandro Tanus
 
+:us:
+I am a Full-stack Developer and also have a Bachelor's degree in Product Design, results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
+Dealing with different projects, customer profiles, resources and technologies, are part of my day to day and the energy that motivates and guides my professional journey.
+
+:flag-br:
+Sou um  desenvolvedor Full-stack (além de ser graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
+Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
 
                                                                
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aletanus&count_private=true)
