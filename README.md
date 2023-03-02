@@ -17,7 +17,7 @@
 ---> I am looking for an opportunity to work as a <strong>Front-End Developer</strong> or a <strong>Full-stack Developer</strong>.
 
 I am a Full-stack Developer and also have a Bachelor's degree in Product Design, results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
-Dealing with different projects, customer profiles, resources and technologies, are part of my day to day and the energy that motivates and guides my professional journey.
+Dealing with different projects, client profiles, resources, and technologies are part of my daily routine, and are also part of the energy that motivates and guides my professional journey.
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do github!</h3>
 
