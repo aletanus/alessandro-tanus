@@ -41,6 +41,9 @@
     <img alt="TypeORM" src="https://img.shields.io/badge/typeORM-DD0031?logo=typeorm&logoColor=white&style=for-the-badge" />
     <img alt="Express" src="https://img.shields.io/badge/Express-239120?logo=Express&logoColor=white&style=for-the-badge" />
       <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-338333?logo=nodeJS&logoColor=white&style=for-the-badge" />
+  
+  https://img.shields.io/badge/Node.js-{VERSION}-green?logo=node.js&logoColor=white&style=for-the-badge
+
 
 
   
