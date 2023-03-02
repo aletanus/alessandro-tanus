@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 </div> -->
 
-<img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my github profile!</h3>
+<img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
 ---> I am looking for an opportunity to work as a <strong>Full-stack Developer</strong> or a <strong>Front-End Developer</strong>.
@@ -19,7 +19,7 @@
 I am a Full-stack Developer and also a Designer (with a Bachelor degree in Product Design), results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
 Dealing with different projects, client profiles, resources, and technologies are part of my daily routine, and are also part of the energy that motivates and guides my professional journey.
 
-<img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do github!</h3>
+<img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
 ---> Estou buscando uma oportunidade para atuar como <strong>Desenvolvedor Full-stack</strong> ou <strong>Desenvolvedor Front-End</strong>.
 
