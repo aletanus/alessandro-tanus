@@ -5,7 +5,7 @@
 </div> -->
 
 <div style="display: flex; align-items: center;">
-  <h3 style="margin-right: 10px;">Hire me | Me contrate:</h3>
+  <strong style="margin-right: 10px;">Hire me | Me contrate:</strong>
   <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 </div>
 
