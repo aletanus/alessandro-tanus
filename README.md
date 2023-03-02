@@ -1,6 +1,6 @@
-<!-- # Alessandro Tanus -->
+# Alessandro Tanus
 
-# Alessandro Tanus | Hire me • Me contrate: <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+# Hire me • Me contrate: <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 
 
 <!-- <div style="display: block; align-items: center;">
