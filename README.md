@@ -1,15 +1,16 @@
 # Alessandro Tanus
 
-<!-- <h3 tabindex="-1" dir="auto"><a id="user-content-Hello-!-My-name-is-Alessandro-Tanus----Welcome-to-my-github-profile!" class="anchor" aria-hidden="true" href="#Hello-!-My-name-is-Alessandro-Tanus----Welcome-to-my-github-profile!"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello! My name is Alessandro-Tanus Welcome to my github profile! -->
-
-<h3>Hello! My name is Alessandro-Tanus Welcome to my github profile!</h3>
-
-
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25">
+
+<h3>Hello! My name is Alessandro Tanus. Welcome to my github profile!</h3>
+
 I am a Full-stack Developer and also have a Bachelor's degree in Product Design, results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
 Dealing with different projects, customer profiles, resources and technologies, are part of my day to day and the energy that motivates and guides my professional journey.
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25">
+
+<h3>Olá! Meu nome é Alessandro Tanus. Seja mito bem vindo ao meu perfil do github!</h3>
+
 Sou um  desenvolvedor Full-stack (além de ser graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
 Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
 
