@@ -1,7 +1,7 @@
 # Alessandro Tanus
 
-<div style="display: inline>
-   <h3>Hire me | Me contrate:</h3><a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<div>
+   <h3 style="display: inline>Hire me | Me contrate:</h3><a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 </div>
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my github profile!</h3>
