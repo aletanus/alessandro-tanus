@@ -45,7 +45,7 @@
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-14.15.1-green?logo=node.js&logoColor=white&style=for-the-badge" />
 
 
-
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge" />
 
   
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
