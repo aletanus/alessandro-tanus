@@ -1,5 +1,7 @@
 # alessandro-tanus
 
+<a href=”https://www.linkedin.com/in/alessandro-tanus/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+                                                               
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aletanus&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
