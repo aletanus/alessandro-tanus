@@ -39,8 +39,6 @@
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-007ACC?logo=postgreSQL&logoColor=white&style=for-the-badge" />
     <img alt="TypeORM" src="https://img.shields.io/badge/typeORM-DD0031?logo=typeorm&logoColor=white&style=for-the-badge" />
-  
-<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-0.2.29-blue?logo=TypeORM&logoColor=white&style=for-the-badge" />
 
 
   
