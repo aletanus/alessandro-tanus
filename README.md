@@ -42,7 +42,8 @@
     <img alt="Express" src="https://img.shields.io/badge/Express-239120?logo=Express&logoColor=white&style=for-the-badge" />
       <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-338333?logo=nodeJS&logoColor=white&style=for-the-badge" />
   
-  https://img.shields.io/badge/Node.js-{VERSION}-green?logo=node.js&logoColor=white&style=for-the-badge
+ <img alt="Node.js" src="https://img.shields.io/badge/Node.js-14.15.1-green?logo=node.js&logoColor=white&style=for-the-badge" />
+
 
 
 
