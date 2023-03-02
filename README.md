@@ -10,13 +10,6 @@ Dealing with different projects, customer profiles, resources and technologies, 
 Sou um  desenvolvedor Full-stack (além de ser graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
 Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
 
-                                                               
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aletanus&count_private=true)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count-private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
 #
 
 <h3>Technologies I use on a daily basis in my projects:</h3>
@@ -32,12 +25,6 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 </div>
 
 
-
-
-
-
-
-
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-007ACC?logo=postgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="TypeORM" src="https://img.shields.io/badge/typeORM-DD0031?logo=typeorm&logoColor=white&style=for-the-badge" />
@@ -45,4 +32,12 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge" />
 </p>
 
+#
+
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aletanus&count_private=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count-private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
