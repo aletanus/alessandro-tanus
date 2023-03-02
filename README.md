@@ -14,14 +14,14 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my github profile!</h3>
 
 
--> I am looking for an opportunity to work as a <strong>Front-End Developer</strong> or a <strong>Full-stack Developer</strong>.
+---> I am looking for an opportunity to work as a <strong>Front-End Developer</strong> or a <strong>Full-stack Developer</strong>.
 
 I am a Full-stack Developer and also have a Bachelor's degree in Product Design, results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
 Dealing with different projects, customer profiles, resources and technologies, are part of my day to day and the energy that motivates and guides my professional journey.
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do github!</h3>
 
--> Estou buscando uma oportunidade para atuar como <strong>Desenvolvedor Front-End</strong> ou <strong>Desenvolvedor Full-stack</strong>.
+---> Estou buscando uma oportunidade para atuar como <strong>Desenvolvedor Front-End</strong> ou <strong>Desenvolvedor Full-stack</strong>.
 
 Sou um  desenvolvedor Full-stack (além de ser graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
 Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
