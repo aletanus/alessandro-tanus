@@ -37,7 +37,7 @@
 
 
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/TypeScript-007ACC?logo=postgreSQL&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-007ACC?logo=postgreSQL&logoColor=white&style=for-the-badge" />
 <!--   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" /> -->
   <img alt="TypeORM" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
