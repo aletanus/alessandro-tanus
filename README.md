@@ -55,3 +55,4 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count-private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletanus&layout=compact&langs_count=7&theme=dracula"/>
