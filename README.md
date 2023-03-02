@@ -6,5 +6,5 @@ https://github-readme-stats.vercel.app/api/top-langs?username=berkaygurcan&show_
 https://github-readme-stats.vercel.app/api/top-langs?username=aletanus&show_icons=true&locale=en&layout=compact
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aletanus&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aletanus&show_icons=true&locale=en&layout=compact)](https://github.com/aletanus/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
