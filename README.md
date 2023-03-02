@@ -40,7 +40,8 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-007ACC?logo=postgreSQL&logoColor=white&style=for-the-badge" />
     <img alt="TypeORM" src="https://img.shields.io/badge/typeORM-DD0031?logo=typeorm&logoColor=white&style=for-the-badge" />
   
-  ![TypeORM](https://img.shields.io/badge/TypeORM-v0.2.29-blue)
+<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-0.2.29-blue?logo=TypeORM&logoColor=white&style=for-the-badge" />
+
 
   
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
