@@ -69,7 +69,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
 <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;">
 <img height="50em" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="max-width: 100%;">
-  <img height="50em" src="www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" style="max-width: 100%;">
+  <img height="50em" src="www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" style="max-width: 100%;"> 
   
   
   
