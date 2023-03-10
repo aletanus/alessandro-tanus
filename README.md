@@ -65,11 +65,25 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
   
 <img height="50em" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="max-width: 100%;">
   
+  
+  
+  
+  
+  <img height="50em" src="https://camo.githubusercontent.com/3f51c9e4df2ed06b09943fce5082aa1b87de388710df73a072ed260a1fbfcf36/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747970657363726970742e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width: 100%;">
+ 
+<img height="50em" src="https://www.neoxis.be/images/techno/nodejs.png" style="max-width: 100%;">
+  
+<img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;">
+  
+<img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
+  
+  
+  
 </div>
 
 
 
-<div style="display: inline-block;">
+<!-- <div style="display: inline-block;">
   
 <img height="50em" src="https://camo.githubusercontent.com/3f51c9e4df2ed06b09943fce5082aa1b87de388710df73a072ed260a1fbfcf36/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747970657363726970742e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width: 100%;">
  
@@ -79,4 +93,4 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
   
 <img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
   
-</div>
+</div> -->
