@@ -69,4 +69,9 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
 <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;">
 <img height="50em" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="max-width: 100%;">
+  <img height="50em" src="[https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daggala.com%2Fstyled-components-doc-is-great-but-is-missing-real-life-examples%2F&psig=AOvVaw1M6yVDaNSEs_fUKynGhFKK&ust=1678533576946000&source=images&cd=vfe&ved=2ahUKEwjZoYb-ntH9AhXDCNQKHS0uCM8QjRx6BAgAEAo)" style="max-width: 100%;">
+  
+  
+  
+  
 </div>
