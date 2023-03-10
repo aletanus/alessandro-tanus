@@ -61,7 +61,8 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <img height="50em" src="https://camo.githubusercontent.com/c61346fb6ea6a25b03315c7a3655fdf3f0368efed773cc2cf393b3ff26a4a8d2/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d312e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="max-width: 100%;">
  
 <img height="50em" src="https://camo.githubusercontent.com/119b29ca4b9d31cf3969a94eb57fcfbbea0879b493c09c89dc6d4b7fb9e0dc37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="max-width: 100%;">
-  </div>
+</div>
 
 
-  <img height="50em" src="https://th.bing.com/th/id/R.ae9e96ffb833192a1626dd183f41dcbe?rik=BoATBm0rQvf4JA&riu=http%3a%2f%2fwww.hepou.com%2fimages%2f2020%2f09%2fExpresslogo.jpg&ehk=LQKF9VVJHVjoGkZ7DguIf3AoMgcbJTIVavzrrk3Siu8%3d&risl=&pid=ImgRaw&r=0" style="max-width: 100%;">
+
+<img height="50em" src="https://www.neoxis.be/images/techno/nodejs.png" style="max-width: 100%;">
