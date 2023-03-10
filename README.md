@@ -49,3 +49,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 </p>
 
 <img height="120em" src="https://camo.githubusercontent.com/b075ce5619aecbb28410aa60fce5c2b69e75d33defb13016e97fb0940e2c0d89/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616d6972646f757261646f267468656d653d6c6967687426686964655f626f726465723d66616c736526266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletanus&amp;theme=light&amp;hide_border=false&amp;&amp;layout=compact" style="max-width: 100%;">
+
+--------
+
+<img height="50em" src="https://camo.githubusercontent.com/b7d5127f22e7ca0e25ecc6ee74b15ed410cd2e185d3b7550d45a254188ad8981/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f737072696e672d332e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" style="max-width: 100%;">
