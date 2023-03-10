@@ -67,5 +67,5 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <div style="display: inline-block;">
 <img height="50em" src="https://www.neoxis.be/images/techno/nodejs.png" style="max-width: 100%;">
 <img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
-<img height="50em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPostgreSQL&psig=AOvVaw1Pkyo2HtwRT0_Uqr4svEIO&ust=1678532862037000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDAkKqc0f0CFQAAAAAdAAAAABAE" style="max-width: 100%;">
+<img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;">
 </div>
