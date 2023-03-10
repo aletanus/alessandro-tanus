@@ -63,3 +63,15 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <img height="50em" src="https://camo.githubusercontent.com/119b29ca4b9d31cf3969a94eb57fcfbbea0879b493c09c89dc6d4b7fb9e0dc37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="max-width: 100%;">
   </div>
 
+
+        <div style="display: inline-block;">
+                
+                <img height="50em" src="https://th.bing.com/th/id/OIP.c1rnU4_5k7Mimo_CA1efmQAAAA?w=174&h=180&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
+                
+                <img height="50em" src="https://th.bing.com/th/id/OIP.CG8qTeTuoei796LdScT2bwHaIP?w=145&h=180&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
+                
+                <img height="50em" src="https://th.bing.com/th/id/OIP.HXYZq1DXJVw6crEtSwEr4AAAAA?w=142&h=150&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
+                 
+                <img height="50em" src="https://th.bing.com/th/id/OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ?w=157&h=180&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
+                 
+        </div>
