@@ -66,12 +66,6 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
         <div style="display: inline-block;">
                 
-                <img height="50em" src="https://th.bing.com/th/id/OIP.c1rnU4_5k7Mimo_CA1efmQAAAA?w=174&h=180&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
-                
-                <img height="50em" src="https://th.bing.com/th/id/OIP.CG8qTeTuoei796LdScT2bwHaIP?w=145&h=180&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
-                
-                <img height="50em" src="https://th.bing.com/th/id/OIP.HXYZq1DXJVw6crEtSwEr4AAAAA?w=142&h=150&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
-                 
-                <img height="50em" src="https://th.bing.com/th/id/OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ?w=157&h=180&c=7&r=0&o=5&pid=1.7" style="max-width: 100%;">
+                 <img height="50em" src="https://th.bing.com/th/id/R.ae9e96ffb833192a1626dd183f41dcbe?rik=BoATBm0rQvf4JA&riu=http%3a%2f%2fwww.hepou.com%2fimages%2f2020%2f09%2fExpresslogo.jpg&ehk=LQKF9VVJHVjoGkZ7DguIf3AoMgcbJTIVavzrrk3Siu8%3d&risl=&pid=ImgRaw&r=0" style="max-width: 100%;">
                  
         </div>
