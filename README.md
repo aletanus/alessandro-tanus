@@ -64,5 +64,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 </div>
 
 
-
+<div style="display: inline-block;">
 <img height="50em" src="https://www.neoxis.be/images/techno/nodejs.png" style="max-width: 100%;">
+<img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
+</div>
