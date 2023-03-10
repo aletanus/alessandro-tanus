@@ -68,5 +68,5 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <img height="50em" src="https://www.neoxis.be/images/techno/nodejs.png" style="max-width: 100%;">
 <img height="50em" src="https://img.stackshare.io/service/7419/20165699.png" style="max-width: 100%;">
 <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="max-width: 100%;">
- <img height="50em" src="https://pbs.twimg.com/profile_images/910823614521454592/oeIWV7Mf_400x400.jpg" style="max-width: 100%;">
+<img height="50em" src="[https://pbs.twimg.com/profile_images/910823614521454592/oeIWV7Mf_400x400.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fstyled-components%2Fstyled-components&psig=AOvVaw0rH2nHfeYudGO_O7DEDYfg&ust=1678533294275000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi4_fed0f0CFQAAAAAdAAAAABAE)" style="max-width: 100%;">
 </div>
