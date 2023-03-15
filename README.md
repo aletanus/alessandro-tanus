@@ -97,7 +97,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 #
 
-<h3>Here are some of my featured repositories:</h3>
+<h3>Some of my featured repositories:</h3>
 
 BACK-END:
 
