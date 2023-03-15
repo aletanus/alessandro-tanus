@@ -107,7 +107,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <h4>FRONT-END:</h4>
 
 - [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform (React + TypeScript) - Version 2.
-- Repository 2 • HealthHub : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
+- Repository 2 • HealthHub(https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
 - [Repository 3 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Online burger ordering platform (React) - Version 1.
 - [Repository 4  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : KenzieHub is a web application (React), and was designed so that developers can register all the technologies within their domain or that they are studying, so they can keep track of their level of progress in each one.
 
