@@ -102,7 +102,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 BACK-END:
 Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus
 
-- [Repository 1]([https://github.com/username/repo1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus)): A description of the first repository.
+- [Repository 1]([https://github.com/username/repo1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus): A description of the first repository.
 - [Repository 2](https://github.com/username/repo2): A description of the second repository.
 - [Repository 3](https://github.com/username/repo3): A description of the third repository.
 - [Repository 4](https://github.com/username/repo4): A description of the fourth repository.
