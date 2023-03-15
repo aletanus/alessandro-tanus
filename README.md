@@ -100,7 +100,6 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <h3>Here are some of my featured repositories:</h3>
 
 BACK-END:
-Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus
 
 - [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus): A description of the first repository.
 - [Repository 2](https://github.com/username/repo2): A description of the second repository.
