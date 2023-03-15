@@ -101,7 +101,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 BACK-END:
 
-- [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : A description of the first repository.
+- [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : Back-end service responsible for managing a real estate agency using TypeORM..
 - [Repository 2 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
 
 FRONT-END:
