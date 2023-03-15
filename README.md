@@ -111,4 +111,4 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 - [Repository 3  • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
 
 <!-- To see more of my repositories, check out my [GitHub profile](https://github.com/aletanus). -->
-To see more of my work as a Designer, check out my [Design Portfolio](https://drive.google.com/drive/folders/1_uqMlxOuUgp_Q0A4w6m80otgm-FQpfWd).
+To see more of my work as a Designer, check out my [Design Portfolio](https://drive.google.com/file/d/1fM9RNKdbqZRnSY6zKDndPzbf53pZNQCP/view?usp=share_link).
