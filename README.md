@@ -109,3 +109,5 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 - [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform - Version 2.
 - [Repository 2 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : A description of the second repository.
 - [Repository 3  • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
+
+To see more of my repositories, check out my [GitHub profile](https://github.com/aletanus).
