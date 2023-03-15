@@ -99,12 +99,12 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 <h3>Some of my featured repositories:</h3>
 
-<h2>BACK-END:</h2>
+<h4>BACK-END:</h4>
 
 - [Repository 1 • Real Estate Agency](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : A back-end service responsible for managing a real estate agency using TypeORM.
 - [Repository 2 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
 
-<h2>FRONT-END:</h2>
+<h4>FRONT-END:</h4>
 - [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform - Version 2.
 - [Repository 2 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : A description of the second repository.
 - [Repository 3  • HealthHub](https://github.com/username/repo3) : Web application to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
