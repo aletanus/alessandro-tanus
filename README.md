@@ -101,11 +101,10 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 BACK-END:
 
-- [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus): A description of the first repository.
+- [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : A description of the first repository.
 - [Repository 2 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
-- [Repository 3](https://github.com/username/repo3): A description of the third repository.
 
 FRONT-END:
-- [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus): Online burger ordering platform - Version 2.
-- [Repository 2  • HealthHub](https://github.com/username/repo3): Web application to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
-- [Repository 3 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus): A description of the second repository.
+- [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform - Version 2.
+- [Repository 2  • HealthHub](https://github.com/username/repo3) : Web application to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
+- [Repository 3 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : A description of the second repository.
