@@ -102,7 +102,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 BACK-END:
 
 - [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus): A description of the first repository.
-- [Repository 2 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus): RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
+- [Repository 2 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
 - [Repository 3](https://github.com/username/repo3): A description of the third repository.
 
 FRONT-END:
