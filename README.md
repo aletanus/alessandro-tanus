@@ -106,6 +106,6 @@ BACK-END:
 - [Repository 3](https://github.com/username/repo3): A description of the third repository.
 
 FRONT-END:
-- [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus): Online burger ordering platform - Version 2.
-- [Repository 2](https://github.com/username/repo2): A description of the second repository.
-- [Repository 3](https://github.com/username/repo3): A description of the third repository.
+- [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus): Online burger ordering platform - Version 2.
+- [Repository 2  • HealthHub](https://github.com/username/repo3): Web application to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
+- [Repository 3 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus): A description of the second repository.
