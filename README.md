@@ -102,8 +102,10 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 BACK-END:
 
 - [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus): A description of the first repository.
+- [Repository 2](https://github.com/username/repo2): RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
+- [Repository 3](https://github.com/username/repo3): A description of the third repository.
+
+FRONT-END:
+- [Repository 1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus): Online burger ordering platform - Version 2.
 - [Repository 2](https://github.com/username/repo2): A description of the second repository.
 - [Repository 3](https://github.com/username/repo3): A description of the third repository.
-- [Repository 4](https://github.com/username/repo4): A description of the fourth repository.
-- [Repository 5](https://github.com/username/repo5): A description of the fifth repository.
-- [Repository 6](https://github.com/username/repo6): A description of the sixth repository.
