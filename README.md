@@ -44,6 +44,9 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-0
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-007ACC?logo=postgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="TypeORM" src="https://img.shields.io/badge/typeORM-DD0031?logo=typeorm&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-239120?logo=Express&logoColor=white&style=for-the-badge" />
