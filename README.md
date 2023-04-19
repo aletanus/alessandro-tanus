@@ -14,14 +14,15 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
----> I am looking for an opportunity to work as a <strong>Full-stack Developer</strong> or a <strong>Front-End Developer</strong>.
+---> Whether you're seeking to expand your development team or have a project you'd like to discuss, please feel free to contact me. I'd be more than happy to talk with you about your needs and how I can collaborate with you.
+.
 
-I am a Full-stack Developer and also a Designer (with a Bachelor degree in Product Design), results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
+I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong> (with a Bachelor degree in Product Design), results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
 Dealing with different projects, client profiles, resources, and technologies are part of my daily routine, and are also part of the energy that motivates and guides my professional journey.
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
----> Estou buscando uma oportunidade para atuar como <strong>Desenvolvedor Full-stack</strong> ou <strong>Desenvolvedor Front-End</strong>.
+---> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
 
 Sou um  desenvolvedor Full-stack e Designer (graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
 Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
