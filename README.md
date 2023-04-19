@@ -24,7 +24,7 @@ Dealing with different projects, client profiles, resources, and technologies ar
 
 ---> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
 
-Sou um  desenvolvedor Full-stack e Designer (graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
+Sou um  <strong>desenvolvedor Full-stack</strong> e <strong>Designer</strong> (graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
 Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
 
 #
