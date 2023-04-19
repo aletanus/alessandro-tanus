@@ -19,14 +19,12 @@ Dealing with different projects, client profiles, resources, and technologies ar
 
 ---> Whether you're seeking to expand your development team or have a project you'd like to discuss, please feel free to contact me. I'd be more than happy to talk with you about your needs and how I can collaborate with you.
 
-.
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
 Sou um  <strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong> (graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
 Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
 
-.
 
 ---> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
 
