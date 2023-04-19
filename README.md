@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/106698505/222342390-d6cd8e3f-3704-4fd3-a1ad-e0c9ae1ba049.png" alt="image" width="100" height="100">
 
-# Open to work • Disponível para trabalhos:  <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+# <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> Open to work • Disponível para trabalhos
 
 
 <!-- <div style="display: block; align-items: center;">
