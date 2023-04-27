@@ -109,7 +109,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 <h4>BACK-END:</h4>
 
-- [Repository 1 • A music API - BandKamp](https://github.com/aletanus/bandkamp-generic-view) : A music API (Python/Django/Postgresql).
+- [Repository 1 • A music API - BandKamp](https://github.com/aletanus/bandkamp) : A music API (Python/Django/Postgresql).
 - [Repository 2 • Real Estate Agency-KIMOVEIS](https://github.com/Kenzie-Academy-Brasil-Developers/kimoveis-aletanus) : A real estate management system (based on TypeORM).
 - [Repository 3 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
 
