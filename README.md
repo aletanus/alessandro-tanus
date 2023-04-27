@@ -109,8 +109,8 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 <h4>BACK-END:</h4>
 
-- [Repository 1 • A music management tool - BandKamp](https://github.com/aletanus/bandkamp) : Simplify music management. (Python/Django/Postgresql).
-- [Repository 2 • A platform for managing and purchasing movies - KenzieBUSTER](https://github.com/aletanus/bandkamp) : A secure and efficient platform. (Python/Django/SQLite3).
+- [Repository 1 • A music management tool - BandKamp](https://github.com/aletanus/bandkamp) : Simplify music management. (Python/Django/Postgresql)
+- [Repository 2 • A platform for managing and purchasing movies - KenzieBUSTER](https://github.com/aletanus/bandkamp) : A secure and efficient platform. (Python/Django/SQLite3)
 - [Repository 3 • Real Estate Agency-KIMOVEIS](https://github.com/Kenzie-Academy-Brasil-Developers/kimoveis-aletanus) : A real estate management system (based on TypeORM).
 - [Repository 4 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
 
@@ -118,7 +118,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 
 - [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform (React + TypeScript) - Version 2.
 - [Repository 2 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : Online burger ordering platform (React) - Version 1.
-- [Repository 3  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : KenzieHub is a web application (React), and was designed so that developers can register all the technologies within their domain or that they are studying, so they can keep track of their level of progress in each one.
+- [Repository 3  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : Keep track of your tech skills levels and studies (React).
 - [Repository 4 • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
 
 <!-- To see more of my repositories, check out my [GitHub profile](https://github.com/aletanus). -->
