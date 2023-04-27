@@ -117,9 +117,9 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <h4>FRONT-END:</h4>
 
 - [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform (React + TypeScript) - Version 2.
-- [Repository 3 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : Online burger ordering platform (React) - Version 1.
-- [Repository 4  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : KenzieHub is a web application (React), and was designed so that developers can register all the technologies within their domain or that they are studying, so they can keep track of their level of progress in each one.
-- [Repository 2 • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
+- [Repository 2 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : Online burger ordering platform (React) - Version 1.
+- [Repository 3  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : KenzieHub is a web application (React), and was designed so that developers can register all the technologies within their domain or that they are studying, so they can keep track of their level of progress in each one.
+- [Repository 4 • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
 
 <!-- To see more of my repositories, check out my [GitHub profile](https://github.com/aletanus). -->
 To see more of my previous work as a Designer, check out my [Graphic Design Portfolio](https://drive.google.com/file/d/1Om9UGUjsVqOg3KqXmwDb1Lxpb2VfY2Xz/view?usp=share_link) and also my [Product Design Portfolio](https://drive.google.com/file/d/1fM9RNKdbqZRnSY6zKDndPzbf53pZNQCP/view?usp=share_link).
