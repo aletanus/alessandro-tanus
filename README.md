@@ -110,7 +110,7 @@ Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são p
 <h4>BACK-END:</h4>
 
 - [Repository 1 • A music management tool - BandKamp](https://github.com/aletanus/bandkamp) : Simplify music management. (Python/Django/Postgresql)
-- [Repository 2 • A platform for managing and purchasing movies - KenzieBUSTER](https://github.com/aletanus/bandkamp) : A secure and efficient platform. (Python/Django/SQLite3)
+- [Repository 2 • A platform for managing and purchasing movies - KenzieBUSTER](https://github.com/aletanus/kenzie-buster) : A secure and efficient platform. (Python/Django/SQLite3)
 - [Repository 3 • Real Estate Agency-KIMOVEIS](https://github.com/Kenzie-Academy-Brasil-Developers/kimoveis-aletanus) : A real estate management system (based on TypeORM).
 - [Repository 4 • Movies API](https://github.com/Kenzie-Academy-Brasil-Developers/m4-t14-movies-typeorm-ale-tanus) : RESTful API to create, delete, modify and search, movies in a very easy and intuitive way.
 
