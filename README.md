@@ -14,7 +14,9 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
-I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong> with extensive experience in project development. I am results-oriented, with exceptional communication and negotiation skills in English and Portuguese. I have expertise in building reliable systems, writing efficient code, and collaborating on group projects. I am creative, passionate about challenges, and prepared to identify, develop, and deliver applications that promote and drive organizational success.
+I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong> with extensive experience in project development.
+
+I am results-oriented, with exceptional communication and negotiation skills in English and Portuguese. I have expertise in building reliable systems, writing efficient code, and collaborating on group projects. I am creative, passionate about challenges, and prepared to identify, develop, and deliver applications that promote and drive organizational success.
 
 In programming, I have completed over 30 projects, totaling nearly 2,000 hours of daily study and application development that require the combined use of different technologies such as Python, ReactJS, JavaScript, HTML, CSS, NodeJS, TypeScript, TypeORM, Express, and databases like PostgreSQL and SQLite3. Additionally, I have mentored numerous students while working as a teaching assistant in a Full Stack preparation course.
 
@@ -25,7 +27,9 @@ As a Designer, I have accumulated over 10 years of professional experience, dire
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
-Sou um  <strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong> com vasta experiência no desenvolvimento de projetos. Sou orientado por resultados, com habilidades excepcionais de comunicação e negociação. Possuo expertise em desenvolvimento de sistemas confiáveis, escrita de código eficiente e trabalho colaborativo em projetos em grupo. Sou criativo, apaixonado por desafios e estou preparado para reconhecer, elaborar e entregar aplicações que promovam e impulsionem o sucesso da organização.
+Sou um  <strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong> com vasta experiência no desenvolvimento de projetos.
+
+Sou orientado por resultados, com habilidades excepcionais de comunicação e negociação. Possuo expertise em desenvolvimento de sistemas confiáveis, escrita de código eficiente e trabalho colaborativo em projetos em grupo. Sou criativo, apaixonado por desafios e estou preparado para reconhecer, elaborar e entregar aplicações que promovam e impulsionem o sucesso da organização.
 
 Dentro da programação somo mais de 30 projetos desenvolvidos, quase 2.000 horas, entre os estudos diários e o desenvolvimento de aplicações que requerem o uso combinado de diferentes tecnologias, como: Python, ReactJS, JavaScript, HTML, CSS, NodeJS, TypeScript, TypeORM, Express e bancos de dados como Postgresql e SQLite3, além de ter atendido a dezenas de alunos enquanto trabalhei como monitor de ensino em um curso de preparação Full-Stack.
 
