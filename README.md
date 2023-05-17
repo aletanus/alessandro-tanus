@@ -14,16 +14,23 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
-I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong> (with a Bachelor degree in Product Design), results-oriented, with excellent communication and negotiation skills in English and Portuguese. 
-Dealing with different projects, client profiles, resources, and technologies are part of my daily routine, and are also part of the energy that motivates and guides my professional journey.
+I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong> with extensive experience in project development. I am results-oriented, with exceptional communication and negotiation skills in English and Portuguese. I have expertise in building reliable systems, writing efficient code, and collaborating on group projects. I am creative, passionate about challenges, and prepared to identify, develop, and deliver applications that promote and drive organizational success.
+
+In programming, I have completed over 30 projects, totaling nearly 2,000 hours of daily study and application development that require the combined use of different technologies such as Python, ReactJS, JavaScript, HTML, CSS, NodeJS, TypeScript, TypeORM, Express, and databases like PostgreSQL and SQLite3. Additionally, I have mentored numerous students while working as a teaching assistant in a Full Stack preparation course.
+
+As a Designer, I have accumulated over 10 years of professional experience, directly responsible for designing, managing, and executing dozens of projects for individuals, businesses, and companies.
 
 ---> Whether you're seeking to expand your development team or have a project you'd like to discuss, please feel free to contact me. I'd be more than happy to talk with you about your needs and how I can collaborate with you.
 
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
-Sou um  <strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong> (graduado em Design de Produto), orientado por resultados, com excelentes habilidades de comunicação e negociação em inglês e português. 
-Lidar com diferentes projetos, perfis de cliente, recursos e tecnologias, são parte do meu dia a dia e da energia que motiva e orienta a minha caminhada profissional.
+Sou um  <strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong> com vasta experiência no desenvolvimento de projetos. Sou orientado por resultados, com habilidades excepcionais de comunicação e negociação. Possuo expertise em desenvolvimento de sistemas confiáveis, escrita de código eficiente e trabalho colaborativo em projetos em grupo. Sou criativo, apaixonado por desafios e estou preparado para reconhecer, elaborar e entregar aplicações que promovam e impulsionem o sucesso da organização.
+
+Dentro da programação somo mais de 30 projetos desenvolvidos, quase 2.000 horas, entre os estudos diários e o desenvolvimento de aplicações que requerem o uso combinado de diferentes tecnologias, como: Python, ReactJS, JavaScript, HTML, CSS, NodeJS, TypeScript, TypeORM, Express e bancos de dados como Postgresql e SQLite3, além de ter atendido a dezenas de alunos enquanto trabalhei como monitor de ensino em um curso de preparação Full-Stack.
+
+Enquanto Designer acumulo mais de 10 anos de experiência profissional, sendo diretamente responsável pelo projeto, gerenciamento, e execução de dezenas de projetos, para diferentes pessoas, negócios e empresas.
+
 
 
 ---> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
