@@ -14,6 +14,7 @@
   <span style="color:#ffffff;font-size:14px;">Portfolio</span>
 </a>
 
+<a href="https://www.linkedin.com/in/alessandro-tanus/](https://portfolio-sandy-sigma-34.vercel.app/"><img src="https://avatars.githubusercontent.com/u/106698505?v=4" alt="Portfolio">
 
 
 <!-- <div style="display: block; align-items: center;">
