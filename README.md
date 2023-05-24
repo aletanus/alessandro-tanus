@@ -4,6 +4,11 @@
 
 # <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> • Open to work • Disponível para trabalhos
 
+<a href="https://portfolio-sandy-sigma-34.vercel.app/" style="display: inline-block; background-color: #ffc928; padding: 6px 12px; text-decoration: none; border-radius: 4px;">
+  <img src="https://avatars.githubusercontent.com/u/106698505?v=4" alt="Portfolio Logo" style="vertical-align: middle; width: 21px; height: 21px; margin-right: 8px;">
+  <span style="color: #ffffff; font-weight: bold; font-size: 14px;">Portfolio</span>
+</a>
+
 
 <!-- <div style="display: block; align-items: center;">
   <strong style="margin-right: 10px;">Hire me | Me contrate:</strong>
