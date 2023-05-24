@@ -9,6 +9,12 @@
   <span style="color: #ffffff; font-weight: bold; font-size: 14px;">Portfolio</span>
 </a>
 
+<a href="https://portfolio-sandy-sigma-34.vercel.app/" style="display:inline-block;background-color:#ffc928;padding:6px 12px;border-radius:4px;text-decoration:none;">
+  <img src="https://avatars.githubusercontent.com/u/106698505?v=4" alt="Logo" style="vertical-align:middle;margin-right:6px;width:24px;height:24px;background-color:#ffc928;">
+  <span style="color:#ffffff;font-size:14px;">Portfolio</span>
+</a>
+
+
 
 <!-- <div style="display: block; align-items: center;">
   <strong style="margin-right: 10px;">Hire me | Me contrate:</strong>
