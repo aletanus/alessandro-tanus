@@ -4,7 +4,7 @@
 
 # <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a> • Open to work • Disponível para trabalhos
 
-https://img.shields.io/badge/-Portfolio-%23ffc928?link=https://portfolio-sandy-sigma-34.vercel.app/?style=for-the-badge
+<div>https://img.shields.io/badge/-Portfolio-%23ffc928?link=https://portfolio-sandy-sigma-34.vercel.app/?style=for-the-badge</div>
 
 <!-- <div style="display: block; align-items: center;">
   <strong style="margin-right: 10px;">Hire me | Me contrate:</strong>
