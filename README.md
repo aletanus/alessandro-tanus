@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/106698505/222342390-d6cd8e3f-3704-4fd3-a1ad-e0c9ae1ba049.png" alt="image" width="100" height="100">
 
-# <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"> [![E-mail](https://img.shields.io/badge/-E--mail-green?style=for-the-badge)](mailto:alessandro@altadesign.com.br) [![Portfolio](https://img.shields.io/badge/-Portfolio-%23ffc928?style=for-the-badge)](https://portfolio-aletanus.vercel.app/) </a> • Open to work • Disponível para trabalhos
+# <a href="https://www.linkedin.com/in/alessandro-tanus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"> [![E-mail](https://img.shields.io/badge/-E--mail-%4490B2?style=for-the-badge)](mailto:alessandro@altadesign.com.br) [![Portfolio](https://img.shields.io/badge/-Portfolio-%23ffc928?style=for-the-badge)](https://portfolio-aletanus.vercel.app/) </a> • Open to work • Disponível para trabalhos
 
 <!-- <div style="display: block; align-items: center;">
   <strong style="margin-right: 10px;">Hire me | Me contrate:</strong>
