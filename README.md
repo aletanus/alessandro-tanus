@@ -50,6 +50,7 @@ Enquanto Designer acumulo mais de 10 anos de experiência profissional, sendo di
   <img alt="TypeORM" src="https://img.shields.io/badge/typeORM-DD0031?logo=typeorm&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-239120?logo=Express&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge" />
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 </p>
 
 
