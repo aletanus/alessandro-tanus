@@ -79,7 +79,7 @@ Enquanto Designer acumulo mais de 10 anos de experiência profissional, sendo di
  
 <img height="50em" src="https://camo.githubusercontent.com/119b29ca4b9d31cf3969a94eb57fcfbbea0879b493c09c89dc6d4b7fb9e0dc37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="max-width: 100%;">
 
-<img height="50em" src="https://camo.githubusercontent.com/accac71d5d4e61a129dc89eaac39d1c4c5437c44e18e085c2834a4297613ef50/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742d322e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/next.svg" style="max-width: 100%;">
+<img height="50em" src="https://camo.githubusercontent.com/accac71d5d4e61a129dc89eaac39d1c4c5437c44e18e085c2834a4297613ef50/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742d322e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/next-js.svg" style="max-width: 100%;">
 
   <img height="50em" src="https://camo.githubusercontent.com/accac71d5d4e61a129dc89eaac39d1c4c5437c44e18e085c2834a4297613ef50/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742d322e737667" data-canonical-src="https://cdn.worldvectorlogo.com/logos/react-2.svg" style="max-width: 100%;">
   
