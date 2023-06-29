@@ -132,7 +132,10 @@ Enquanto Designer acumulo mais de 10 anos de experiência profissional, sendo di
 - [Repository 1 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform. (React + TypeScript)
 - [Repository 2 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : Online burger ordering platform. (React)
 - [Repository 3  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : Keep track of your tech skills levels and studies (React).
-- [Repository 4 • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.
+
 
 <!-- To see more of my repositories, check out my [GitHub profile](https://github.com/aletanus). -->
 To see more of my previous work as a Designer, check out my [Graphic Design Portfolio](https://drive.google.com/file/d/1Om9UGUjsVqOg3KqXmwDb1Lxpb2VfY2Xz/view?usp=share_link) and also my [Product Design Portfolio](https://drive.google.com/file/d/1fM9RNKdbqZRnSY6zKDndPzbf53pZNQCP/view?usp=share_link).
+
+
+<!-- - [Repository 4 • HealthHub](https://github.com/Kenzie-Academy-Brasil-Developers/Projeto-front-end-Saude-para-todos) : Web application (React + TypeScript) to facilitate and centralize information and contacts for healthcare units (Emergency Care Units and Polyclinics) located throughout Brazil.  -->
