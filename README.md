@@ -129,7 +129,7 @@ Enquanto Designer acumulo mais de 10 anos de experiência profissional, sendo di
 
 <h4>FRONT-END:</h4>
 
-- [Repository 1 • PokéVerse](https://github.com/aletanus/pokeverse) : A platform for immersive experience in the Pokémon universe. (Next + TypeScript + Tailwind)
+- [Repository 1 • PokéVerse](https://github.com/aletanus/pokeverse) : A platform for immersive experience in the Pokémon universe. (Next.js + TypeScript + Tailwind)
 - [Repository 2 • Online Burguer Shop V2](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-v2-aletanus) : Online burger ordering platform. (React + TypeScript)
 - [Repository 3 • Online Burguer Shop V1](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-hamburgueria-da-kenzie-aletanus) : Online burger ordering platform. (React)
 - [Repository 4  • KenzieHub](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-aletanus) : Keep track of your tech skills levels and studies (React).
