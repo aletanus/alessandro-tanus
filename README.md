@@ -17,7 +17,7 @@ I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong
 
 I am results-oriented and possess advanced communication and negotiation skills. I have experience in developing reliable systems, efficient code writing, and collaborative teamwork on projects.
 
-In the field of programming, I have a comprehensive education as a Full-stack Developer from Kenzie Academy Brasil. It was a 2,000-hour course during which I was hired as a Monitor, providing online assistance to fellow students. In this role, I assisted them with frontend bug fixes and programming logic.
+In the field of programming, I have a comprehensive education as a Full-stack Developer from Kenzie Academy Brasil. It was a 2,000-hour course during which I was hired as a Monitor, conducting hundreds of online consultations with fellow students. In this role, my main responsibilities included reviewing activities related to programming logic, JavaScript, HTML, CSS, API consumption, asynchronous programming, Git, and GitHub. Additionally, I provided direct assistance to students, addressing their doubts and helping them with exercises and code writing for their Front-end applications.
 
 In the field of Design, I hold a Bachelor's degree in Product Design and have over 10 years of professional experience. Throughout this period, I have directly managed and executed numerous projects for a diverse range of clients, including corporate clients, educational institutions, and individual clients.
 
@@ -32,7 +32,7 @@ My primary objective is to continue advancing my career in the programming field
 
 Sou orientado por resultados e possuo habilidades avançadas de comunicação e negociação. Tenho experiência em desenvolvimento de sistemas confiáveis, escrita eficiente de código e trabalho colaborativo em projetos em equipe.
 
-No campo da programação, possuo uma formação completa como Desenvolvedor Full-stack pela Kenzie Academy Brasil. Foi um curso de 2.000 horas, durante o qual fui contratado como Monitor, realizando centenas de atendimentos online a outros alunos do curso. Nessa função, auxiliei-os em questões como correção de bugs no Front-end e lógica de programação.
+No campo da programação, possuo uma formação completa como Desenvolvedor Full-stack pela Kenzie Academy Brasil. Foi um curso de 2.000 horas, durante o qual fui contratado como Monitor, realizando centenas de atendimentos online a outros alunos do curso. Nesta função, minhas principais responsabilidades incluíram: revisão de atividades relacionadas à lógica de programação, códigos JavaScript, HTML, CSS, consumo de APIs, programação assíncrona, Git e GitHub. Além disso, forneci assistência direta aos alunos, respondendo suas dúvidas tanto na resolução de exercícios quanto na escrita de código para suas aplicações Front-end.
 
 No campo do Design, sou Bacharel em Design de Produto e acumulo mais de 10 anos de experiência profissional. Durante esse período, fui diretamente responsável pelo projeto, gerenciamento e execução de inúmeros projetos para diversos perfis de clientes, desde clientes corporativos e instituições de ensino até clientes individuais.
 
