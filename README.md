@@ -13,28 +13,30 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
-I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong> with extensive experience in project development.
+I am a <strong>Full-stack Developer</strong> and also a <strong>Designer</strong>.
 
-I am results-oriented, with exceptional communication and negotiation skills in English and Portuguese. I have expertise in building reliable systems, writing efficient code, and collaborating on group projects. I am creative, passionate about challenges, and prepared to identify, develop, and deliver applications that promote and drive organizational success.
+I am results-oriented and possess advanced communication and negotiation skills. I have experience in developing reliable systems, efficient code writing, and collaborative teamwork on projects.
 
-In programming, I have completed over 30 projects, totaling nearly 2,000 hours of daily study and application development that require the combined use of different technologies such as Python, ReactJS, JavaScript, HTML, CSS, NodeJS, TypeScript, TypeORM, Express, and databases like PostgreSQL and SQLite3. Additionally, I have mentored numerous students while working as a teaching assistant in a Full Stack preparation course.
+In the field of programming, I have a comprehensive education as a Full-stack Developer from Kenzie Academy Brasil. It was a 2,000-hour course during which I was hired as a Monitor, providing online assistance to fellow students. In this role, I assisted them with frontend bug fixes and programming logic.
 
-As a Designer, I have accumulated over 10 years of professional experience, directly responsible for designing, managing, and executing dozens of projects for individuals, businesses, and companies.
+In the field of Design, I hold a Bachelor's degree in Product Design and have over 10 years of professional experience. Throughout this period, I have directly managed and executed numerous projects for a diverse range of clients, including corporate clients, educational institutions, and individual clients.
+
+My primary objective is to continue advancing my career in the programming field, maintaining consistency and a fast-paced trajectory. Within the next 5 years, I aim to achieve a level of seniority and responsibility that aligns with the accomplishments I have attained thus far as a Designer.
 
 ---> Whether you're seeking to expand your development team or have a project you'd like to discuss, please feel free to contact me. I'd be more than happy to talk with you about your needs and how I can collaborate with you.
 
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
-Sou um  <strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong> com vasta experiência no desenvolvimento de projetos.
+<strong>Desenvolvedor Full-stack</strong> e <strong>Designer</strong>.
 
-Sou orientado por resultados, com habilidades excepcionais de comunicação e negociação. Possuo expertise em desenvolvimento de sistemas confiáveis, escrita de código eficiente e trabalho colaborativo em projetos em grupo. Sou criativo, apaixonado por desafios e estou preparado para reconhecer, elaborar e entregar aplicações que promovam e impulsionem o sucesso da organização.
+Sou orientado por resultados e possuo habilidades avançadas de comunicação e negociação. Tenho experiência em desenvolvimento de sistemas confiáveis, escrita eficiente de código e trabalho colaborativo em projetos em equipe.
 
-Dentro da programação somo mais de 30 projetos desenvolvidos, quase 2.000 horas, entre os estudos diários e o desenvolvimento de aplicações que requerem o uso combinado de diferentes tecnologias, como: Python, ReactJS, JavaScript, HTML, CSS, NodeJS, TypeScript, TypeORM, Express e bancos de dados como Postgresql e SQLite3, além de ter atendido a dezenas de alunos enquanto trabalhei como monitor de ensino em um curso de preparação Full-Stack.
+No campo da programação, possuo uma formação completa como Desenvolvedor Full-stack pela Kenzie Academy Brasil. Foi um curso de 2.000 horas, durante o qual fui contratado como Monitor, realizando centenas de atendimentos online a outros alunos do curso. Nessa função, auxiliei-os em questões como correção de bugs no Front-end e lógica de programação.
 
-Enquanto Designer acumulo mais de 10 anos de experiência profissional, sendo diretamente responsável pelo projeto, gerenciamento, e execução de dezenas de projetos, para diferentes pessoas, negócios e empresas.
+No campo do Design, sou Bacharel em Design de Produto e acumulo mais de 10 anos de experiência profissional. Durante esse período, fui diretamente responsável pelo projeto, gerenciamento e execução de inúmeros projetos para diversos perfis de clientes, desde clientes corporativos e instituições de ensino até clientes individuais.
 
-
+Meu principal objetivo é continuar a desenvolver minha carreira na área de programação, com consistência e ritmo acelerado, de forma a alcançar, nos próximos 5 anos, um nível de senioridade e responsabilidade compatível com as conquistas que obtive até então como Designer.
 
 ---> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
 
