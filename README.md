@@ -36,7 +36,7 @@ No campo da programação, possuo uma formação completa como Desenvolvedor Ful
 
 No campo do Design, sou Bacharel em Design de Produto e acumulo mais de 10 anos de experiência profissional. Durante esse período, fui diretamente responsável pelo projeto, gerenciamento e execução de inúmeros projetos para diversos perfis de clientes, desde clientes corporativos e instituições de ensino até clientes individuais.
 
-Meu principal objetivo é continuar a desenvolver minha carreira na área de programação, com consistência e ritmo acelerado, de forma a alcançar, nos próximos 5 anos, um nível de senioridade e responsabilidade compatível com as conquistas que obtive até então como Designer.
+Meu principal objetivo é continuar a desenvolver minha carreira na área de programação, com consistência e ritmo acelerado, de forma a alcançar nos próximos 5 anos um nível de senioridade e responsabilidade compatível com as conquistas que obtive até então como Designer.
 
 ---> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
 
