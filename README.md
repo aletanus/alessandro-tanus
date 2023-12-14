@@ -13,7 +13,7 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
-I am a <strong>Computer Science student</strong>, a <strong>Full-stack Developer</strong> and a holder of a <strong>Bachelor's degree in Product Design</strong>.
+I am a <strong>Full-stack Developer</strong>, <strong>Computer Science student</strong> and holder of a <strong>Bachelor's degree in Product Design</strong>.
 
 I am results-oriented and possess advanced communication and negotiation skills. I have experience in developing reliable systems, writing efficient code, and collaborating effectively on team projects.
 
@@ -30,7 +30,7 @@ My primary objective is to continue advancing my career in the programming field
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
-Sou <strong>Estudante da Ciência da Computação</strong>, <strong>Desenvolvedor Full-stack</strong> e <strong>Bacharel em Design de produtos</strong>.
+Sou um <strong>Desenvolvedor Full-stack</strong>, <strong>Estudante da Ciência da Computação</strong> e <strong>Bacharel em Design de produtos</strong>.
 
 Sou orientado por resultados e possuo habilidades avançadas de comunicação e negociação. Tenho experiência em desenvolvimento de sistemas confiáveis, escrita eficiente de código e trabalho colaborativo em projetos em equipe.
 
