@@ -13,36 +13,32 @@
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-united-states_1f1fa-1f1f8.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-united-states_1f1fa-1f1f8.png 2x" alt="Flag: United States on Samsung One UI 5.0" width="25" height="25"><h3>Hello! My name is Alessandro Tanus. Welcome to my GitHub profile!</h3>
 
 
-I am a <strong>Full-stack Developer</strong>, <strong>Computer Science student</strong> and holder of a <strong>Bachelor's degree in Product Design</strong>.
+I am a <strong>Integration and New Business Developer at Deskbee</strong>, <strong>Full-stack Developer</strong>, <strong>Computer Science student</strong> and holder of a <strong>Bachelor's degree in Product Design</strong>.
 
 I am results-oriented and possess advanced communication and negotiation skills. I have experience in developing reliable systems, writing efficient code, and collaborating effectively on team projects.
 
 In the field of programming, I am currently pursuing a Computer Science education through Anhanguera. In addition to this field, I have a comprehensive prior education as a Full Stack Developer from Kenzie Academy Brasil. This was a 2,000-hour course that provided me with technical, practical, and project-based experience in advanced Front End and Back End stacks.
 
-My initial work experience in this domain also stemmed from Kenzie Academy Brasil, where I was hired as a Teaching Monitor, assisting course instructors. Throughout my contract period, I conducted hundreds of online consultations with fellow students. In this role, I aided them in matters such as bug correction and programming logic, as well as supporting instructors in reviewing Front End applications.
+Within the realm of programming education, I served as a Teaching Assistant at Kenzie Academy, providing support to course instructors. Throughout my contract tenure, I conducted hundreds of online consultations with fellow students. In this role, I assisted them with tasks such as debugging and programming logic, as well as aiding instructors in frontend application assessments.
 
-In the realm of Design, I hold a Bachelor's degree in Product Design and have accumulated over 10 years of professional experience. During this period, I was directly responsible for designing, managing, and executing numerous projects for diverse client profiles, ranging from corporate clients and educational institutions to individual customers.
+In the realm of Design, I hold a Bachelor's degree in Product Design and have accumulated over 10 years of professional experience. Throughout this period, in addition to providing consultancy services, I have been directly accountable for the design, management, and execution of numerous product, identity, and communication projects for corporate clients, educational institutions, and individual customers.
 
 My primary objective is to continue advancing my career in the programming field, maintaining consistency and an accelerated pace, with the aim of achieving a level of seniority and responsibility within the next 5 years that corresponds to the achievements I have garnered thus far as a Designer.
-
----> Whether you're seeking to expand your development team or have a project you'd like to discuss, please feel free to contact me. I'd be more than happy to talk with you about your needs and how I can collaborate with you.
 
 
 <img src="https://em-content.zobj.net/thumbs/120/samsung/349/flag-brazil_1f1e7-1f1f7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/flag-brazil_1f1e7-1f1f7.png 2x" alt="Flag: Brazil on Samsung One UI 5.0" width="25" height="25"><h3>Olá! Meu nome é Alessandro Tanus. Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
-Sou um <strong>Desenvolvedor Full-stack</strong>, <strong>Estudante da Ciência da Computação</strong> e <strong>Bacharel em Design de produtos</strong>.
+Sou <strong>Desenvolvedor de Integrações e Novos Negócios na Deskbee</strong>, <strong>Desenvolvedor Full-stack</strong>, <strong>Estudante da Ciência da Computação</strong> e <strong>Bacharel em Design de produtos</strong>.
 
 Sou orientado por resultados e possuo habilidades avançadas de comunicação e negociação. Tenho experiência em desenvolvimento de sistemas confiáveis, escrita eficiente de código e trabalho colaborativo em projetos em equipe.
 
 No campo da programação, estou em formação na Ciência da Computação através da Anhanguera. Em adição a este campo, possuo uma formação prévia, completa, como Desenvolvedor Full-stack pela Kenzie Academy Brasil. Um curso de 2.000 horas, que me agregou experiência técnica, prática e projetual em stacks de nível avançado tanto no Front quanto no Back End.
 
-Minha primeira experiência de trabalho na área também se deu através da Kenzie Academy Brasil, onde fui contratado como Monitor de Ensino, atuando em apoio aos Instrutores do curso. Durante o meu período de contrato, realizei centenas de atendimentos online a outros alunos do curso. Nessa função, auxiliei-os em questões como correção de bugs e lógica de programação, além de auxiliar os Instrutores na correção de aplicações Front End.
+Dentro do ensino na programação atuei como Monitor de Ensino na Kenzie Academy em apoio aos Instrutores do curso. Durante o meu período de contrato, realizei centenas de atendimentos online a outros alunos do curso. Nessa função, auxiliei-os em questões como correção de bugs e lógica de programação, além de auxiliar os Instrutores na correção de aplicações Front End.
 
-No campo do Design, sou Bacharel em Design de Produto e acumulo mais de 10 anos de experiência profissional. Durante esse período, fui diretamente responsável pelo projeto, gerenciamento e execução de inúmeros projetos para diversos perfis de clientes, desde clientes corporativos e instituições de ensino até clientes individuais.
+No campo do Design, sou Bacharel em Design de Produto e acumulo mais de 10 anos de experiência profissional. Durante este período, além de prestar consultoria, fui diretamente responsável pelo projeto, gerenciamento e execução de inúmeros projetos de produto, identidade e comunicação para clientes corporativos, instituições de ensino e clientes individuais.
 
 Meu principal objetivo é continuar a desenvolver minha carreira na área de programação, com consistência e ritmo acelerado, de forma a alcançar nos próximos 5 anos um nível de senioridade e responsabilidade compatível com as conquistas que obtive até então como Designer.
-
----> Se você está buscando expandir a sua equipe de desenvolvimento ou tem um projeto que gostaria de discutir, por favor, sinta-se a vontade para entrar em contato comigo. Eu ficarei feliz em conversar com você sobre as suas necessidades e sobre como posso colaborar com você.
 
 #
 
